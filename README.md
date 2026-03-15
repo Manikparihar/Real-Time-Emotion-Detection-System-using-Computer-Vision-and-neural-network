@@ -1,0 +1,2 @@
+# Real-Time-Emotion-Detection-System-using-Computer-Vision-and-neural-network
+Real-Time Emotion Detection System built using Python, OpenCV, and Deep Learning. The application captures live webcam video, detects human faces, and predicts emotions such as happy, sad, angry, surprised, and neutral in real time. This project demonstrates the use of computer vision and machine learning for facial emotion recognition.
